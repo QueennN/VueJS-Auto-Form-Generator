@@ -4,7 +4,6 @@ Screenshot:https://ibb.co/7yDHkQv
 ```
 npm install
 ```
-
 ### Compiles and hot-reloads for development
 ```
 npm run serve
@@ -14,21 +13,8 @@ npm run serve
 ```
 npm run build
 ```
-
-### Run your unit tests
+### There is a mini server for the test.
 ```
-npm run test:unit
-```
-
-### Run your end-to-end tests
-```
-npm run test:e2e
+node server
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
