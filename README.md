@@ -4,7 +4,7 @@ Screenshot:https://ibb.co/7yDHkQv
 ``` 
 
 mainJsonObject:{
-  url:"/login",
+  url:"http:localhost:3000/login",
   method:"post",
   title:"Login",
   data:{
