@@ -25,7 +25,8 @@ export default {
     {
       "name": "text",
       "type": "text",
-      "description": "Description for the text."
+      "description": "Description for the text.",
+      "value":"text default value"
     },
     {
       "name": "password",
@@ -107,7 +108,8 @@ export default {
     {
       "name": "textarea",
       "type": "textarea",
-      "description": "Description for the textarea."
+      "description": "Description for the textarea.",
+         "value":"textarea value"
     },
     {
       "name": "file",
