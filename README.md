@@ -1,5 +1,5 @@
 # form-generator
-![Screenshot](https://ibb.co/7yDHkQv)
+https://ibb.co/7yDHkQv
 ## Project setup
 ```
 npm install
