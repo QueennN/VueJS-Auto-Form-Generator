@@ -1,6 +1,27 @@
 # form-generator
 Screenshot:https://ibb.co/7yDHkQv
+
 ``` 
+
+mainJsonObject:{
+  url:"/login",
+  method:"post",
+  title:"Login",
+  data:{
+    {
+      name:"Username"
+      type:"text",
+      description:"Your uniq username."
+    },
+     {
+      name:"Password"
+      type:"password",
+      description:"Your pasword."
+    }
+  }
+}
+
+
 types:{
   text,
   password,
@@ -27,6 +48,7 @@ allAttrs:{
   description:String,// all
   items:Array // select radio check
 }
+
 ```
 
 
