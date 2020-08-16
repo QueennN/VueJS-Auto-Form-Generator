@@ -1,5 +1,5 @@
 # form-generator
-
+![alt text](https://ibb.co/7yDHkQv)
 ## Project setup
 ```
 npm install
